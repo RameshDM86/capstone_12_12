@@ -1,2 +1,2 @@
 bucket_env = "uat"
-bucket_name = "ramesh-sctp-prjt-test"
+bucket_name = "ramesh-sctp-prjt-test-2"
