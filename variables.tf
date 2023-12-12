@@ -2,7 +2,7 @@ variable "bucket_env" {}
 variable "bucket_name" {}
 variable "prefix" {
   type = string
-  default = "jaz"
+  default = "Ram"
 }
 
 variable "allowed_methods" {

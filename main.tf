@@ -3,7 +3,7 @@
 
 resource "aws_s3_bucket" "my-static-website" {
   bucket = "${var.bucket_name}-${var.bucket_env}" # give a unique bucket name
-  force_destroy = true
+  force_destroy = false
   tags = {
     Name = "By ${var.bucket_name}"
     Environment = var.bucket_env
