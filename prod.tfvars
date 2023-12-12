@@ -1,2 +1,2 @@
 bucket_env = "prod"
-bucket_name = "ramesh-sctp-prjt-test"
+bucket_name = "ramesh-sctp-projecttest"
